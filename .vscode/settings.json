@@ -1,0 +1,12 @@
+{
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "com.bankingSystem/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "com.bankingSystem/lib/jcalendar-1.4.jar",
+        "c:\\Users\\91945\\Downloads\\mysql-connector-java-8.0.28.jar"
+    ]
+}
